@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.pc-tech.pl/sitemap.xml
